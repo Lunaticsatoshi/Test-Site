@@ -72,10 +72,6 @@ body {
 }
 
 .responsive-search {
-    /* setting width to 100% keeps its width between:
-     * 295px (minimum) from remaining width
-     * 406px (maximum)
-     */
     width: 100%;
     max-width: 25.375em;
     margin-right: 1em;
